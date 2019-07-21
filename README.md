@@ -1,1 +1,1 @@
-# React Practices
+# React Practice - Appointment Application
